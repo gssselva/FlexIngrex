@@ -1,1 +1,7 @@
-{}
+{
+  "myapproval": {
+    "type": "object",
+    "comment": "",
+    "properties": {}
+  }
+}
