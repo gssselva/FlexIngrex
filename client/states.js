@@ -33,5 +33,14 @@ angular.module('app').config(function ($stateProvider) {
                 }
             }
         }
+    }).state('app.myapproval', {
+        views: {
+            app: {
+                controller: 'app_myapproval',
+                templateProvider: function (app) {
+                    return app.templateProvider('app.myapproval');
+                }
+            }
+        }
     });
 });
