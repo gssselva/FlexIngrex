@@ -2,6 +2,14 @@
   "myapproval": {
     "type": "object",
     "comment": "",
-    "properties": {}
+    "properties": {
+      "approvalList": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {}
+        }
+      }
+    }
   }
 }
