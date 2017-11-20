@@ -25,7 +25,8 @@
       "id": "myapproval",
       "name": "myApproval",
       "sourceScreenId": "app.blank",
-      "sourceAppId": "_blank"
+      "sourceAppId": "_blank",
+      "model": "myapproval"
     }
   ],
   "sourceAppId": "_blank",
